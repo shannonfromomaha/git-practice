@@ -1,6 +1,6 @@
 ##Variables
 
-variable = 'Shannon is great!'
+variable = 'Shannon is greats!'
 
 
 ###Bonus: Try this in JavaScript!
